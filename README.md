@@ -1,6 +1,7 @@
 # chuancms
-Chuan CMS la he thong quan tri duoc tao moi Chuanw3s.com
-He thong bao gom:
+Chuan CMS là 1 hệ thống mã nguồn mở. Và được tạo bởi chuanw3s.com- nhằm phục vụ cho khách hàng
+
+Hệ thống bao gồm
 
 1. Quản trị tin tức - nội dung
 2. Quản trị bán hàng
